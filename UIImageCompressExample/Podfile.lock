@@ -1,0 +1,14 @@
+PODS:
+  - UIImage+ImageCompress (0.0.1)
+
+DEPENDENCIES:
+  - UIImage+ImageCompress (from `~/workspace/UIImageCompress`)
+
+EXTERNAL SOURCES:
+  UIImage+ImageCompress:
+    :path: ~/workspace/UIImageCompress
+
+SPEC CHECKSUMS:
+  UIImage+ImageCompress: 25ddcfd64ec97646506052a6314abd0ec29d95ca
+
+COCOAPODS: 0.27.1

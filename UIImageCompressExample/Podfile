@@ -1,0 +1,3 @@
+platform :ios
+
+pod 'UIImage+ImageCompress', path: '~/workspace/UIImageCompress'
