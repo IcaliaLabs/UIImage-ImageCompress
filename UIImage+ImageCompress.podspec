@@ -13,10 +13,10 @@ Pod::Spec.new do |s|
   s.description  = %{ 
                     UIImageCompress is an easy drop in category to compress UIImages on iOS
                    }
-  s.homepage     = "http://github.com/IcaliaLabs/UIImage+ImageCompress"
+  s.homepage     = "https://github.com/IcaliaLabs/UIImage-ImageCompress"
   s.license      = 'MIT'
   s.author       = { "Abraham Kuri" => "kurenn@icalialabs.com" }
   s.platform     = :ios
-  s.source       = { :git => "http://github.com/IcaliaLabs/UIImageCompress.git", :tag => "0.0.1" }
+  s.source       = { :git => "git@github.com:IcaliaLabs/UIImage-ImageCompress.git", :tag => "0.0.1" }
   s.source_files  = '*.{h,m}'
 end
