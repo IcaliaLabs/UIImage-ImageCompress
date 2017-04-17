@@ -1,7 +1,7 @@
 UIImage+ImageCompress is a UIImage category that compress a local or
 remote UIImage 
 
-#Install
+# Install
 
 Install with [cocoapods](http://cocoapods.org/)
 
@@ -9,7 +9,7 @@ Install with [cocoapods](http://cocoapods.org/)
 pod 'UIImage+ImageCompress'
 ```
 
-#Usage
+# Usage
 
 ```
     UIImage *imageToCompress = [UIImage imageNamed:@"theJoker.jpg"];
